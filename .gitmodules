@@ -12,13 +12,13 @@
 	url = https://github.com/aigc3d/LAM_Audio2Expression.git
 [submodule "src/handlers/avatar/musetalk/MuseTalk"]
 	path = src/handlers/avatar/musetalk/MuseTalk
-	url = https://github.com/TMElyralab/MuseTalk.git
+	url = https://github.com/ethanyoyo/MuseTalk.git
 [submodule "src/handlers/vad/smart_turn_eou/smart-turn"]
 	path = src/handlers/vad/smart_turn_eou/smart-turn
-	url = https://github.com/pipecat-ai/smart-turn.git
+	url = https://github.com/ethanyoyo/smart-turn.git
 [submodule "src/handlers/avatar/flashhead/SoulX-FlashHead"]
 	path = src/handlers/avatar/flashhead/SoulX-FlashHead
 	url = https://github.com/Soul-AILab/SoulX-FlashHead.git
 [submodule "src/service/frontend_service/frontend"]
 	path = src/service/frontend_service/frontend
-	url = https://github.com/HumanAIGC-Engineering/OpenAvatarChat-WebUI.git
+	url = https://github.com/ethanyoyo/OpenAvatarChat-WebUI.git
